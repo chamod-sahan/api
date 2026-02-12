@@ -9,7 +9,7 @@ session_start();
 ============================ */
 
 $merchant_id = '1233963';
-$merchant_secret = 'MTU0OTUyOTA1NjgxMDQ0Njc5MzE5MTUyOTAzMjQyMTI1OTUyNDY4';// Sandbox Merchant Secret
+$merchant_secret = 'MjkxODA4MDU0MzI5MTUzNjE2NjA0OTUyNjc1ODExMzI0MDY4OTIz';// Sandbox Merchant Secret
 $mode            = 'sandbox';
 
 $payhere_url = 'https://sandbox.payhere.lk/pay/checkout';
